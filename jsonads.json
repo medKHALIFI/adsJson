@@ -1,1 +1,15 @@
-{"flashlight":{adsController:{"name":"John", "age":30, "car":null}}}
+{"flashlight":
+ {adsController:{
+   "NetworkAds":"admob",
+   "BannerAdmob":"test22",
+   "InterstitialAdmob":"test1010",
+   "NativeAdmob":"test",
+   "ReworderAdmob":"test10",
+   "BannerFacebook":"test22",
+   "InterstitialFacebook":"test1010",
+   "NativeFacebook":"test",
+   "ReworderFacebook":"test10"
+   
+  }
+ }
+}
