@@ -1,5 +1,5 @@
-{"wallpaper":
- {adsController:{
+{"adsController":
+ {wallpaper:{
    "NetworkAds":"facebook",
    "showingAds":"true",
    "BannerAdmob":"ca-app-pub-3940256099942544/6300978111",
@@ -15,6 +15,22 @@
    "NativeApploving":"test",
    "ReworderApploving":"test10"
    
+  },
+  flashlight:{
+   "NetworkAds":"facebook",
+   "showingAds":"true",
+   "BannerAdmob":"ca-app-pub-3940256099942544/6300978111",
+   "InterstitialAdmob":"ca-app-pub-3940256099942544/1033173712",
+   "NativeAdmob":"ca-app-pub-3940256099942544/2247696110",
+   "ReworderAdmob":"ca-app-pub-3940256099942544/5224354917",
+   "BannerFacebook":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+   "InterstitialFacebook":"test1010",
+   "NativeFacebook":"test",
+   "ReworderFacebook":"test10",
+   "BannerApploving":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+   "InterstitialApploving":"test1010",
+   "NativeApploving":"test",
+   "ReworderApploving":"test10" 
   }
  }
 }
