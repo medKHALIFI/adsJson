@@ -1,11 +1,12 @@
 {"wallpaper":
  {adsController:{
-   "NetworkAds":"admob",
+   "NetworkAds":"facebook",
+   "showingAds":"true",
    "BannerAdmob":"ca-app-pub-3940256099942544/6300978111",
    "InterstitialAdmob":"ca-app-pub-3940256099942544/1033173712",
    "NativeAdmob":"ca-app-pub-3940256099942544/2247696110",
    "ReworderAdmob":"ca-app-pub-3940256099942544/5224354917",
-   "BannerFacebook":"test22",
+   "BannerFacebook":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
    "InterstitialFacebook":"test1010",
    "NativeFacebook":"test",
    "ReworderFacebook":"test10"
