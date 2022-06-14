@@ -1,13 +1,13 @@
 {"adsController":
  {wallpaper:{
    "NetworkAds":"facebook",
-   "showingAds":"false",
+   "showingAds":"true",
    "BannerAdmob":"ca-app-pub-3940256099942544/6300978111",
    "InterstitialAdmob":"ca-app-pub-3940256099942544/1033173712",
    "NativeAdmob":"ca-app-pub-3940256099942544/2247696110",
    "ReworderAdmob":"ca-app-pub-3940256099942544/5224354917",
-   "BannerFacebook":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-   "InterstitialFacebook":"test1010",
+   "BannerFacebook":"2114623768715925_2114632278715074",
+   "InterstitialFacebook":"2114623768715925_2114632875381681",
    "NativeFacebook":"test",
    "ReworderFacebook":"test10",
    "BannerApploving":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
