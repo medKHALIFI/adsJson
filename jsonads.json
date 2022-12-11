@@ -64,5 +64,22 @@
    "ReworderApploving":"", 
    "appLink":"https://play.google.com/store/apps/details?id=com.maroc.messages"
   }
+  ,wallpapermorocco:{
+   "NetworkAds":"facebook",
+   "showingAds":"true",
+   "BannerAdmob":"",
+   "InterstitialAdmob":"",
+   "NativeAdmob":"",
+   "ReworderAdmob":"",
+   "BannerFacebook":"424418992843466_424907689461263",
+   "InterstitialFacebook":"",
+   "NativeFacebook":"",
+   "ReworderFacebook":"",
+   "BannerApploving":"",
+   "InterstitialApploving":"",
+   "NativeApploving":"",
+   "ReworderApploving":"", 
+   "appLink":"https://play.google.com/store/apps/details?id=com.maroc.messages"
+  }
  }
 }
